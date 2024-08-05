@@ -32,7 +32,7 @@ function generateWhatsAppLink(phoneNumber, message) {
   return baseUrl + '?' + urlParams.toString();
 }
 
-var phoneNumber = '201023279424'; // Replace with your phone number
+var phoneNumber = '201553993411'; // Replace with your phone number
 var message = `مرحبا 
 انا مهتم بالمنتج 
 ما هي طرق الدفع
